@@ -16,7 +16,15 @@ Here're some of the project's best features:
 *   Filter by price
 *   Search by product
 *   Navigation
+<h2>Project Screenshots:</h2>
 
+<img src="https://firebasestorage.googleapis.com/v0/b/fir-eb561.appspot.com/o/WhatsApp%20Image%202023-09-27%20at%202.46.38%20PM%20(1).jpeg?alt=media&amp;token=a883dd05-0ca8-4e0e-b4d1-339259f05233" alt="project-screenshot" width="200" height="400/">
+
+<img src="https://firebasestorage.googleapis.com/v0/b/fir-eb561.appspot.com/o/WhatsApp%20Image%202023-09-27%20at%202.46.38%20PM%20(2).jpeg?alt=media&amp;token=ddd2b45b-bb6a-491e-a92a-c6eaf6ddfb34" alt="project-screenshot" width="200" height="400/">
+
+<img src="https://firebasestorage.googleapis.com/v0/b/fir-eb561.appspot.com/o/WhatsApp%20Image%202023-09-27%20at%202.46.38%20PM%20(3).jpeg?alt=media&amp;token=a7b6b786-455e-4fa5-842f-716a8d0af148" alt="project-screenshot" width="200" height="400/">
+
+<img src="https://firebasestorage.googleapis.com/v0/b/fir-eb561.appspot.com/o/WhatsApp%20Image%202023-09-27%20at%202.46.38%20PM.jpeg?alt=media&amp;token=87eeb144-3eab-473c-a828-4a67b43fdf26" alt="project-screenshot" width="200" height="400/">
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Pull project</p>
