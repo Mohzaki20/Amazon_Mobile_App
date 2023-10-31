@@ -33,15 +33,21 @@ Here're some of the project's best features:
 git clone https://github.com/Mohzaki20/Amazon_Mobile_App.git
 ```
 
-<p>2. install expo</p>
+<p>2. install npm</p>
+
+```
+npm install
+```
+
+<p>3. install expo</p>
 
 ```
 npx expo start
 ```
 
-<p>3. Install expo Go on play store</p>
+<p>4. Install expo Go from Play Store </p>
 
-<p>4. Scan QR code</p>
+<p>5. Scan QR code</p>
 
   
   
